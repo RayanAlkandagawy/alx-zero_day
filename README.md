@@ -1,1 +1,1 @@
-My edetor first readme
+My first readme
